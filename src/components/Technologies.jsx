@@ -38,7 +38,7 @@ const Technologies = () => {
             </motion.div>
 
             <motion.div variants={iconVariants(5)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-3 m-1">
-                <SiCanva className="text-6xl text-cyan-500" />
+                <SiCanva className="text-6xl text-[#545BDF]" />
             </motion.div>
             
         </motion.div>
@@ -54,7 +54,7 @@ const Technologies = () => {
             </motion.div>
 
             <motion.div variants={iconVariants(4)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-3 m-1">
-                <DiPython className="text-6xl text-blue-700" />
+                <DiPython className="text-6xl text-blue-600" />
             </motion.div>
 
             <motion.div variants={iconVariants(2)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-3 m-1">
