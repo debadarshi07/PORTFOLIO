@@ -16,7 +16,7 @@ export const PROJECTS = [
     title: "HIND GYM",
     image: project1,
     description:
-      "A frontend clone of SidCup Golf organisation.",
+      "A full stack gym website with user authentication and BMI calculator.",
     technologies: ["React JS", "Node JS", "Express JS"],
   },
   {
@@ -37,7 +37,7 @@ export const PROJECTS = [
     title: "Rock-Paper-Scissors",
     image: project4,
     description:
-      "A Rock-Paper-Scissors game application where person plays against computer.",
+      "A Rock-Paper-Scissors game webapp where player plays against computer.",
     technologies: ["HTML", "CSS", "Javascript"],
   },
   {
@@ -52,7 +52,7 @@ export const PROJECTS = [
     image: project6,
     description:
       "A basic Java OOPS based employee management portal(Database is not connected).",
-    technologies: ["HTML", "CSS","JavaScript"],
+    technologies: ["Java"],
   },
 ];
 
