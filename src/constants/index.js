@@ -14,7 +14,7 @@ A key strength I bring is my ability to rapidly learn and adapt to emerging tech
 
 Feel free to explore my projects—they highlight my journey of continuous technical growth and practical innovation.`;
 
-export const ABOUT_TEXT = `As a B.Tech Computer Science student, I have cultivated a fervent passion for Full Stack Web Development, which was sparked by my insatiable curiosity about technology and its potential to address real-world challenges. My journey in programming has led me to acquire proficiency in a variety of technologies, including the MERN, Java, Linux, C, and Python, as well as version control systems like Git. This diverse skill set allows me to seamlessly integrate both front-end and back-end development, crafting comprehensive web solutions.
+export const ABOUT_TEXT = `As a B.Tech Computer Science student, I have cultivated a fervent passion for Full Stack Web Development and Data Science, which was sparked by my insatiable curiosity about technology and its potential to address real-world challenges. My journey in programming has led me to acquire proficiency in a variety of technologies, including Java, C, SQL and Python, as well as version control systems like Git. This diverse skill set allows me to seamlessly integrate both front-end and back-end development, crafting comprehensive web solutions.
 
 Outside of coding, I am deeply intrigued by emerging technologies and the complexities of geopolitics, always eager to explore their interconnections and implications for society. I believe that a well-rounded perspective enhances my approach to problem-solving and innovation.`;
 
